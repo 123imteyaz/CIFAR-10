@@ -1,1 +1,1 @@
-# MNIST-dataset
+# ciFAR-10
